@@ -3,4 +3,5 @@
 
 ## 2018-11-08 1.1 add luci-app-nft-qos
 
+## 2018-11-08 1.2 fix rate limit ineffective on remote network
 
