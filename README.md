@@ -30,5 +30,5 @@ Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/L
 ## Static QoS
 <div align=center><img src="https://raw.githubusercontent.com/rosywrt/nft-qos/master/previews/static-qos.png" alt="static qos"/></div>
 
-## Traffic priority
+## Traffic priority (1 is the highest)
 <div align=center><img src="https://raw.githubusercontent.com/rosywrt/nft-qos/master/previews/traffic-priority.png" alt="traffic priority"/></div>
