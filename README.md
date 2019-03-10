@@ -3,6 +3,8 @@
 ## About
 nft-qos and luci-app-nft-qos is a qos implementation over nftables project on OpenWrt and LuCI.
 
+**NOTE!!!** This packages is merged upstream, please visit [openwrt/packages](https://github.com/openwrt/packages) and [openwrt/luci](https://github.com/openwrt/luci) for more details.
+
 ## Reference
 * [The nftables project](https://netfilter.org/projects/nftables/index.html).
 
