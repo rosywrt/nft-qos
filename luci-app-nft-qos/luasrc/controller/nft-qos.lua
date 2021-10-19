@@ -29,7 +29,7 @@ end
 function action_rate()
 	luci.http.prepare_content("application/json")
 
-	local bwc = io.popen("nft list ruleset -j 2>/dev/null")
+	local bwc = io.popen("nft -j list ruleset 2>/dev/null")
 	if bwc then
 
 		while true do
